@@ -1,2 +1,2 @@
-# brianeeberhardt.github.io
-Hearth app
+# Hearth
+https://brianeeberhardt.github.io/
